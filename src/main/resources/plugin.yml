@@ -1,0 +1,4 @@
+name: CustomJoinLeave
+version: '${project.version}'
+main: thejoj0.plugins.basics.customjoinleave.CustomJoinLeave
+api-version: '1.20'
